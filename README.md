@@ -23,7 +23,7 @@
 <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" alt="instagram" width="40" height="40" style="max-width:100%; margin: 0 2px"></img>
 </a>
 
-<h3>Minhas habilidades</h3>
+<h3>Minhas competências</h3>
 <div>
 <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="40" height="40" style="max-width:100%; margin: 0 2px"></img>
 <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="40" height="40" style="max-width:100%; margin: 0 2px"></img>
